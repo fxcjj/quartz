@@ -1,0 +1,4 @@
+# maven generated directory
+/target/
+# Java Compiled class
+*.class
